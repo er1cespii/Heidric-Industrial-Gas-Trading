@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://heidric-industrial-gas-trading-5gvzeu.teleporthq.site/sitemap.xml
